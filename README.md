@@ -1,7 +1,3 @@
-# Improve an app for this project:
-# XYZ Reader: 
-A mock RSS feed reader featuring banner photos and headlines. Download the code here.
-
 # MakeYourMaterialApp
 Download a zip file of the app.
 Read the UI Review in the next node.
